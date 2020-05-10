@@ -6,4 +6,6 @@
 [homePage]: images/template.png "Compassionate Care Center"
 
 
-## **Home Page**: ![alt text][homePage]
+## **Home Page**:
+
+![alt text][homePage]
