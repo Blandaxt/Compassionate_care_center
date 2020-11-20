@@ -1,0 +1,24 @@
+{
+  "name": "compassionate_care_center",
+  "version": "1.0.0",
+  "description": "Non-profit website",
+  "main": "messages.js",
+  "dependencies": {
+    "node": "^14.2.0",
+    "npm": "^6.14.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blandaxt/Compassionate_care_center.git"
+  },
+  "author": "Bland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blandaxt/Compassionate_care_center/issues"
+  },
+  "homepage": "https://github.com/Blandaxt/Compassionate_care_center#readme"
+}

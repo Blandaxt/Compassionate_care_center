@@ -9,3 +9,5 @@
 ## **Home Page**:
 
 ![alt text][homePage]
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/90126529-5c9a-4103-9eac-c34f78ba7b8d/deploy-status)](https://app.netlify.com/sites/compassionatecarecenter/deploys)
